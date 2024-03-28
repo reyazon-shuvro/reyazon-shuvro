@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Reyazon Shuvro</h1>
 <h3 align="center">A passionate frontend & UI-UX Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyazon-shuvro" alt="reyazon-shuvro" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
