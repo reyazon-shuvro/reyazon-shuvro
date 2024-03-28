@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/md_reyazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_reyazon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-reyazon-shuvro-187104256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-reyazon-shuvro-187104256" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-reyazon-shuvro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-reyazon-shuvro-187104256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
